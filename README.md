@@ -8,3 +8,5 @@
 
 ### Collection of APIs: https://www.getpostman.com/collections/27504e8a1cbf4105da07
 
+
+#### The JSON you get from the above link can be imported in Postman.
